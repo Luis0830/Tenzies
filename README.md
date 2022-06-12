@@ -1,13 +1,18 @@
 
 # Tenzies Game
 
-
+![image](https://user-images.githubusercontent.com/102985938/173249336-aa4bff61-7284-4aac-8a0d-18820e2968ac.png)
 
 Project Website: https://luis0830.github.io/Tenzies/
 
+## It was a great experience to learn and parctice my react skills on the way 
 
-
-
+## How it's made:
+ 
+ Used React, styled components, react nano, npm react confetti,
+ used Hooks,
+ 
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
